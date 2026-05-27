@@ -1,4 +1,4 @@
-# Sistema de Gestión de Pedidos — Roles CuCEI
+# Sistema de Gestión de Pedidos — Roles CUGDL
 
 **Materia:** Programación 3  
 **Proyecto:** Programación Concurrente  
